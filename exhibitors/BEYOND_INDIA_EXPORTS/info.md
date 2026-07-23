@@ -5,7 +5,7 @@ certifications: "01"
 certifications_list: [{"id": "11912", "description": "fssai", "link": "https://erp.tpci.in//frontend/exhibitor/797dc4161b9a79b9362ec6fb20c7ce0a_6a58a5dfb7385.pdf"}]
 city_name: "MUMBAI"
 company_address: "21, MALAD ELEPHANTA CHS LTD, GAUSHALA LANE B L MORARKA MARG, NEAR RAMLILA MAIDAN, MALAD EAST MUMBAI, 400097, MUMBAI SUBURBAN, MAHARASHTRA"
-company_logo: "https://erp.tpci.in/images/upload/company_logo/Exhibitor-Logo-6720_6a589f7668956.png?rand=23553"
+company_logo: "https://erp.tpci.in/images/upload/company_logo/Exhibitor-Logo-6720_6a589f7668956.png?rand=24254"
 company_name: "Beyond India Exports"
 company_profile: "WE AT BEYOND INDIA EXPORTS, UNDER OUR BRAND 'JABANI' ARE BRINGING INDIA’S TIMELESS SWEETNESS TO THE MODERN WORLD, ONE HANDCRAFTED BITE AT A TIME."
 contact_person: "NILESH"
@@ -13,7 +13,7 @@ country: ""
 facebook_link: "https://www.facebook.com/"
 featured: ""
 hall_no: "2"
-id: "OGE1YWE0NmZlMDVhYzI2MjoyNzdmN2M3ZTEzMGY2ZjJiN2Y3YmRjZWFlZjlkMmQ4MGE1ZmU5ZjVmOkR4eXZLQVpabGhBeVJPTmhXQ3FBRkE9PQ=="
+id: "Yzg1NTU0YTc0ZGIxZGEzMDo3YjdmYTcwMTQ2MTAwMGM1NjllZWNmNzBhNTY3OWE2Mjg5OTQ4NTEwOlVMU2tIWXRPLzlqS2xqdWpodkR6UFE9PQ=="
 industry: "Food & Agri Products"
 instagram_link: "http://www.instagram.com/jabanibrand/"
 linkedin_link: "https://www.linkedin.com/home?originalSubdomain=in"
@@ -23,7 +23,7 @@ pan_no: "AAXFB7693M"
 pin_code: "400097"
 product_list: {"Sweets & Confectionery": ["Sweets & Confectionery"]}
 product_zone: {"Sweets & Confectionery": ["Sweets & Confectionery"]}
-products: [{"productName": "Jaggery Range", "description": "At Jabani, we believe sweetness should be simple, honest, and true to its roots. Our jaggery is crafted in small batches using traditional methods that preserve its natural richness and authenticity. We work closely with trusted local farmers to source the finest ingredients, ensuring every product ", "productImage": "https://erp.tpci.in/frontend/exhibitor/product-178419829930517874.jpg?12.548200984064678"}]
+products: [{"productName": "Jaggery Range", "description": "At Jabani, we believe sweetness should be simple, honest, and true to its roots. Our jaggery is crafted in small batches using traditional methods that preserve its natural richness and authenticity. We work closely with trusted local farmers to source the finest ingredients, ensuring every product ", "productImage": "https://erp.tpci.in/frontend/exhibitor/product-178419829930517874.jpg?4.326345682448098"}]
 stall_no: "F-11"
 state: "Maharashtra"
 twitter_link: "https://www.twitter.com/"

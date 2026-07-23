@@ -5,7 +5,7 @@ certifications: "01"
 certifications_list: [{"id": "11732", "description": "certificate ", "link": "https://erp.tpci.in//frontend/exhibitor/e0a8d8035ac41f6fb446793eced6c514_6a352d9c05d0e.pdf"}]
 city_name: "AHMEDABAD"
 company_address: "44, AMBICA INDUSTRIAL HUB, AMBICA TUBE COMPOUND, VATVA RAILWAY BRIDGE, VATVA, AHMEDABAD - 382440, GUJARAT(INDIA)"
-company_logo: "https://erp.tpci.in/images/upload/company_logo/Exhibitor-Logo-6553.png?rand=11309"
+company_logo: "https://erp.tpci.in/images/upload/company_logo/Exhibitor-Logo-6553.png?rand=66830"
 company_name: "Helios Concrew Pvt Ltd"
 company_profile: "WE HELIOS CONCREW PVT. LTD. AIMS AT PROVIDING PACKAGING SOLUTIONS FOR FOOD INDUSTRY. WE HAVE EXTENSIVE EXPERIENCE IN MANUFACTURING SUPERIOR QUALITY BLISTER PACKING MACHINES SUITABLE FOR  YOGURT, CURD, BUTTER, LIQUID, CHOCOLATE, JELLY, JAM, HONEY, PEANUT BUTTER PACKING SOLUTIONS.   WE AT HELIOS CONCREW PVT. LTD. EMPHASES ON QUALITY AND NO COMPROMISE POLICY. EACH OF OUR MACHINES ARE MANUFACTURED USING WORLD CLASS INFRASTRUCTURE HIGHLY AUTOMATED MACHINES.QUALITY INSTRUMENTS ARE USED FOR INSPECTIONS WHICH ARE PERIODICALLY CALIBRATED. WE HAVE IN-LINE PRODUCTION OF 20 MACHINES IN OUR PRODUCTION HOUS"
 contact_person: "HITARTH RAVAL"
@@ -13,7 +13,7 @@ country: "India"
 facebook_link: "https://www.facebook.com/"
 featured: ""
 hall_no: "2"
-id: "ZjE2MzdhMTFiODNhZmViODoxYWFlMmIyZGE4ZmQwNGNlYmMzZDU4ODY1MjIyZTI3OWIyZDlkNmM1OnZWTm04bjVFS2sySkxzbzVlbkhQcGc9PQ=="
+id: "ZTg0MDBiYmZhMjY3NjFjYTozMTYyMWVkZmQ0OGQ0YzUwOThmOTJjODFmZWE4ZjkxOTc5MDJhNDk2Olh1dktCdVdmTExDc0h6WnZkZGhkTVE9PQ=="
 industry: "Others"
 instagram_link: "https://www.twitter.com/"
 linkedin_link: "https://www.linkedin.com/home?originalSubdomain=in"
@@ -23,7 +23,7 @@ pan_no: "AAECH2903E"
 pin_code: "382440"
 product_list: {"Food Processing & Packaging Machinery": ["Food Processing & Packaging Machinery"]}
 product_zone: {"Food Processing & Packaging Machinery": ["Food Processing & Packaging Machinery"]}
-products: [{"productName": "HC FOODPACK 2440", "description": "We Helios Concrew Pvt. Ltd. aims at providing Packaging Solutions for Food industry We have extensive experience in manufacturing superior quality BLISTER PACKING MACHINES suitable for  YOGURT, CURD, BUTTER, LIQUID, CHOCOLATE, JELLY, JAM, HONEY, PEANUT BUTTER packing solutions.", "productImage": "https://erp.tpci.in/frontend/exhibitor/product-178184966588192883.jpg?27.87208615604051"}]
+products: [{"productName": "HC FOODPACK 2440", "description": "We Helios Concrew Pvt. Ltd. aims at providing Packaging Solutions for Food industry We have extensive experience in manufacturing superior quality BLISTER PACKING MACHINES suitable for  YOGURT, CURD, BUTTER, LIQUID, CHOCOLATE, JELLY, JAM, HONEY, PEANUT BUTTER packing solutions.", "productImage": "https://erp.tpci.in/frontend/exhibitor/product-178184966588192883.jpg?6.140035024043206"}]
 stall_no: "A-45"
 state: "Gujarat"
 twitter_link: "https://www.twitter.com/"

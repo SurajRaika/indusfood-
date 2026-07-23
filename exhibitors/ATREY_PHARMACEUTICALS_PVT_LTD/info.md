@@ -5,7 +5,7 @@ certifications: "01"
 certifications_list: [{"id": "11729", "description": "iso22000", "link": "https://erp.tpci.in//frontend/exhibitor/68bbdd07ebe73adaf0027966be14b094_6a2fd935af6d1.pdf"}]
 city_name: "AHMEDABAD"
 company_address: "688 PALDI KANKAJ DASKROI"
-company_logo: "https://erp.tpci.in/images/upload/company_logo/Exhibitor-Logo-6572.jpeg?rand=83552"
+company_logo: "https://erp.tpci.in/images/upload/company_logo/Exhibitor-Logo-6572.jpeg?rand=7682"
 company_name: "Atrey Pharmaceuticals Pvt Ltd"
 company_profile: "WE OFFER A RANGE OF MORE THAN 400+ PRODUCTS WITH DIFFERENT FORMULATIONS LIKE TABLETS, CAPSULES, (SOFT GELATIN & HARD GELATIN), OINTMENTS, CREAMS, OILS, POWDERS & SPRAYS AMONG OTHERS. OUR INSISTENCE ON MAINTAINING QUALITY OF THE PRODUCT & EXCLUSIVE PACKAGING SET US APART FROM OUR CONTEMPORARIES. WE TAKE SPECIAL CARE FOR SAFE LOGISTICS & HYGIENIC WORK ENVIRONMENTS."
 contact_person: "NAMAN SHAH"
@@ -13,7 +13,7 @@ country: "India"
 facebook_link: "https://www.facebook.com/"
 featured: ""
 hall_no: "2"
-id: "MjE1YWRkYTUxYmQ0NTgwYjoyMjI0MmI2ZGM5NTJhNGEzOGMzOGViY2ViMDhjZmI5NmJlZDBjMDJhOmV6SjVKV1hOVFJhYTZ3M3ZvUVNVaFE9PQ=="
+id: "MjY2YjAwZmZlNTUxNDEzYjo0MWVjMWYyODc1OTUwZGZjNTU5MzI2ZjJlZTQzNDQ0MmEyMTlmMDg3OmxTbzBsNDkyTko1U0tKSjJXbE44MkE9PQ=="
 industry: "Food & Agri Products"
 instagram_link: "https://www.twitter.com/"
 linkedin_link: "https://www.linkedin.com/home?originalSubdomain=in"
@@ -23,7 +23,7 @@ pan_no: "AAFCC2268J"
 pin_code: "382425"
 product_list: []
 product_zone: []
-products: [{"productName": "Herbal Tea and Infusion", "description": "Premium Herbal tea and Infusion. ", "productImage": "https://erp.tpci.in/frontend/exhibitor/product-178152165035507047.jpg?24.508703150328902"}]
+products: [{"productName": "Herbal Tea and Infusion", "description": "Premium Herbal tea and Infusion. ", "productImage": "https://erp.tpci.in/frontend/exhibitor/product-178152165035507047.jpg?88.45598053974656"}]
 stall_no: "F-30"
 state: "Gujarat"
 twitter_link: "https://www.twitter.com/"

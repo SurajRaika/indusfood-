@@ -5,7 +5,7 @@ certifications: "02"
 certifications_list: [{"id": "11888", "description": "GST CERTIFICATE", "link": "https://erp.tpci.in//frontend/exhibitor/ee6b8b1766a61c635dad48b78cad6523_6a575b00450bd.pdf"}, {"id": "11889", "description": "IEC", "link": "https://erp.tpci.in//frontend/exhibitor/b0079df8dd3f15e9098b55f5700fc0f7_6a575b20cce27.pdf"}]
 city_name: "SURAT"
 company_address: "P-60, RAMKRISHNA INDUSTRIAL SOCIETY, BEHIND UDHANA ACADEMIC COLLAGE, UDHANA"
-company_logo: "https://erp.tpci.in/images/upload/company_logo/Exhibitor-Logo-6583_6a59d2df7a233.jpg?rand=76152"
+company_logo: "https://erp.tpci.in/images/upload/company_logo/Exhibitor-Logo-6583_6a59d2df7a233.jpg?rand=19378"
 company_name: "Canny Coverage Packaging Pvt Ltd"
 company_profile: "CANNY COVERAGE PACKAGING PVT. LTD,"
 contact_person: "DEVANSHI DALAL"
@@ -13,7 +13,7 @@ country: "India"
 facebook_link: "http://www.facebook.com/coveragepackagings"
 featured: ""
 hall_no: "2"
-id: "ODNjNDI4MWZjMzEzNzRiODo3ZjgwYWRiOTk5YmQxMjk4YTgyODZkYmVjZTY4MTA4YjUxNWEwYzQwOjMrUXpGOUhraysrbXB1cnNaT2t1eGc9PQ=="
+id: "ZTkyMGNjNWE3YzEyMjNkNTo2ZjQyZThkNDMwNjA4ZjM1YWM2YjgyODA1MTM2ZTk4OTYyZDEwNjY1OjdvMmVsL3hCQ1hRSG5YUFFoQUJ0V1E9PQ=="
 industry: "Printing & Packaging Products & Machinery"
 instagram_link: "http://www.instagram.com/canny.coverage?igsh=MTU0Mm13NHRmODA3bw=="
 linkedin_link: "http://www.linkedin.com/company/101558506/admin/dashboard/"
@@ -23,7 +23,7 @@ pan_no: "AADCC6681K"
 pin_code: "394210"
 product_list: {"Packaging Material": ["Packaging Material"], "Private Label": ["Private Label"]}
 product_zone: {"Packaging Material": ["Packaging Material"], "Private Label": ["Private Label"]}
-products: [{"productName": "ROTARY CPFS-50(PICK FILL SEAL MACHINE)", "description": "The Automatic Rotary Premade Pouch Packing Machine is designed to package liquids, powders, granules, pastes, and solid products with speed, precision, and reliability. Featuring an 8-station rotary system,  compatibility with Flat, Stand-Up, Back Seal& Zipper  bags giving the speed up to 60BPM.", "productImage": "https://erp.tpci.in/frontend/exhibitor/product-178316476443959400.jpg?58.151231853432236"}, {"productName": "MULTIHEAD FFS MACHINE", "description": "This Machine combines precision weighing with high-speed automation for efficient packaging of snacks, confectionery, dry fruits, frozen foods, and granules. Featuring 10-14 Weigher,  it ensures accurate filling and consistent packaging speeds of up to 70PPM", "productImage": "https://erp.tpci.in/frontend/exhibitor/product-178316476425018299.jpg?58.48968798154005"}, {"productName": "TRIPLE SERVO AUGER FFS MACHINE", "description": "The Triple Servo Auger FFS Packaging Machine is engineered for all types of powder products, offering high precision and exceptional filling accuracy.Powered by three servo motors and an advanced auger filling system it ensures smooth operation, reliable sealing, and consistent packaging performance", "productImage": "https://erp.tpci.in/frontend/exhibitor/product-178316476495868106.jpg?17.994747420768018"}]
+products: [{"productName": "ROTARY CPFS-50(PICK FILL SEAL MACHINE)", "description": "The Automatic Rotary Premade Pouch Packing Machine is designed to package liquids, powders, granules, pastes, and solid products with speed, precision, and reliability. Featuring an 8-station rotary system,  compatibility with Flat, Stand-Up, Back Seal& Zipper  bags giving the speed up to 60BPM.", "productImage": "https://erp.tpci.in/frontend/exhibitor/product-178316476443959400.jpg?34.139699520673325"}, {"productName": "MULTIHEAD FFS MACHINE", "description": "This Machine combines precision weighing with high-speed automation for efficient packaging of snacks, confectionery, dry fruits, frozen foods, and granules. Featuring 10-14 Weigher,  it ensures accurate filling and consistent packaging speeds of up to 70PPM", "productImage": "https://erp.tpci.in/frontend/exhibitor/product-178316476425018299.jpg?31.97829921914106"}, {"productName": "TRIPLE SERVO AUGER FFS MACHINE", "description": "The Triple Servo Auger FFS Packaging Machine is engineered for all types of powder products, offering high precision and exceptional filling accuracy.Powered by three servo motors and an advanced auger filling system it ensures smooth operation, reliable sealing, and consistent packaging performance", "productImage": "https://erp.tpci.in/frontend/exhibitor/product-178316476495868106.jpg?57.472400607049835"}]
 stall_no: "D-32"
 state: "Gujarat"
 twitter_link: "https://www.twitter.com/"

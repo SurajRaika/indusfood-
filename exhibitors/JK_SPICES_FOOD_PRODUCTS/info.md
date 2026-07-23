@@ -5,7 +5,7 @@ certifications: "01"
 certifications_list: [{"id": "11816", "description": "Certifications", "link": "https://erp.tpci.in//frontend/exhibitor/93111b398cfe99ecf92b5bb9320700d2_6a50d2e37c4f2.pdf"}]
 city_name: "KOLKATA"
 company_address: "22, AMRATOLLA STREET"
-company_logo: "https://erp.tpci.in/images/upload/company_logo/Exhibitor-Logo-6637.png?rand=62201"
+company_logo: "https://erp.tpci.in/images/upload/company_logo/Exhibitor-Logo-6637.png?rand=10716"
 company_name: "Jk Spices & Food Products"
 company_profile: "JK SPICES & FOOD PRODUCTS"
 contact_person: "ASHISH BAID"
@@ -13,7 +13,7 @@ country: "India"
 facebook_link: "http://www.facebook.com/jkspices"
 featured: ""
 hall_no: "2"
-id: "ODE1YWVhNjY1OWJmMWYyNTo3OGIwZDI1YWRhNjhhMGQzYmU3ZTc3ODBkNDM5N2NmOWUwMmIyMmM0OmZKdVMvWFZaZW4zTUNuTlpsRERycUE9PQ=="
+id: "ZDA4MWZhYjFmYTRlNGQzOTpmZWVhMGEwY2I2MWI2ZGEwOTFjMjI3MzhlOWE2ZmNhNGFhMjgxOWUzOnJMWDRBclFLcm55TUF0YjR4RlNQNFE9PQ=="
 industry: "Food & Agri Products"
 instagram_link: "https://www.twitter.com/"
 linkedin_link: "https://www.linkedin.com/home?originalSubdomain=in"
@@ -23,7 +23,7 @@ pan_no: "AAEFJ9137H"
 pin_code: "700001"
 product_list: []
 product_zone: []
-products: [{"productName": "SPICES AND FOOD PRODUCTS", "description": "We, JK Spices & Food Products supply full range of premium quality whole, powdered, blended Spices and various food products and snacks.", "productImage": "https://erp.tpci.in/frontend/exhibitor/product-178368121651390895.jpg?41.070568599803906"}]
+products: [{"productName": "SPICES AND FOOD PRODUCTS", "description": "We, JK Spices & Food Products supply full range of premium quality whole, powdered, blended Spices and various food products and snacks.", "productImage": "https://erp.tpci.in/frontend/exhibitor/product-178368121651390895.jpg?67.52343854636274"}]
 stall_no: "B-36"
 state: "West Bengal"
 twitter_link: "https://www.twitter.com/"

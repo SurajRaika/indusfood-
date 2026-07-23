@@ -5,7 +5,7 @@ certifications: 0
 certifications_list: []
 city_name: "RAJKOT"
 company_address: "KUVADVA WANKANER HIGHWAY, AT SURYA RAMPARA, POST SANOSARA"
-company_logo: "https://erp.tpci.in/images/upload/company_logo/Exhibitor-Logo-6760.png?rand=61164"
+company_logo: "https://erp.tpci.in/images/upload/company_logo/Exhibitor-Logo-6760.png?rand=37309"
 company_name: "Fishfa Agri World Limited"
 company_profile: "FISHFA AGRI WORLD LIMITED"
 contact_person: "MALAY BAVARIA"
@@ -13,7 +13,7 @@ country: "India"
 facebook_link: "https://www.facebook.com/"
 featured: ""
 hall_no: "2"
-id: "Yzk4MGJkYmEwNTM4NmYyOTpkNjFlMGQ4NGE5NTE4YmY5NzJjODRkZjJhZThhNTg3ZjUwNjIyZTdlOnhDSk03ekd2azNtMG03dld1ZFEzQ0E9PQ=="
+id: "MTE0ZTU5ZmIwZmYxZjkyYTpmYjMzMTU2YTAxYmM3NjY0MzlkOTM1ZWQ2NjEyYWNjMTIzM2QyMDc5OmZMMzFqM1JOMVV5a3pTQ29pdWxRclE9PQ=="
 industry: "Food & Agri Products"
 instagram_link: "https://www.twitter.com/"
 linkedin_link: "https://www.linkedin.com/home?originalSubdomain=in"
@@ -23,7 +23,7 @@ pan_no: "AACCF1776D"
 pin_code: "360003"
 product_list: {"Fats & Oils": ["Fats & Oils"], "Food Ingredients": ["Food Ingredients"], "Rice, Pulses, Grains, Spices and Commodities": ["Rice, Pulses, Grains, Spices and Commodities"]}
 product_zone: {"Fats & Oils": ["Fats & Oils"], "Food Ingredients": ["Food Ingredients"], "Rice, Pulses, Grains, Spices and Commodities": ["Rice, Pulses, Grains, Spices and Commodities"]}
-products: [{"productName": "Bold Peanut Kernel ", "description": "Peanuts of the bold variety have a reddish-brown skin and an oblong shape. Bold-type peanut kernels are thicker and larger than other varieties of peanut kernels. These nuts are superfoods when it comes to their health benefits. They are also good sources of energy and help to increase the metabolic", "productImage": "https://erp.tpci.in/frontend/exhibitor/product-178472544959692675.jpg?53.4619407294895"}]
+products: [{"productName": "Bold Peanut Kernel ", "description": "Peanuts of the bold variety have a reddish-brown skin and an oblong shape. Bold-type peanut kernels are thicker and larger than other varieties of peanut kernels. These nuts are superfoods when it comes to their health benefits. They are also good sources of energy and help to increase the metabolic", "productImage": "https://erp.tpci.in/frontend/exhibitor/product-178472544959692675.jpg?27.811579618427512"}]
 stall_no: "F-28"
 state: "Gujarat"
 twitter_link: "https://www.twitter.com/"

@@ -114,13 +114,13 @@ def generate_markdown(record):
 def scrape_all():
     print("Starting scraping exhibitors list...")
     limit = 100
-    offset = 0
+    page = 1
     all_exhibitor_briefs = []
 
     # First, fetch all the briefs from exhibitor-list.php
     while True:
-        payload = {"limit": limit, "offset": offset}
-        print(f"Fetching list starting from offset {offset} with limit {limit}...")
+        payload = {"limit": limit, "page": page}
+        print(f"Fetching list starting from page {page} with limit {limit}...")
         res = make_post_request(LIST_URL, payload)
         if not res or not res.get("success"):
             print("Failed to get response or success was false.", file=sys.stderr)
@@ -140,7 +140,7 @@ def scrape_all():
             print(f"All {total_records} records collected (briefs list count: {len(all_exhibitor_briefs)}).")
             break
 
-        offset += limit
+        page += 1
         time.sleep(1)
 
     print(f"Total briefs collected: {len(all_exhibitor_briefs)}")

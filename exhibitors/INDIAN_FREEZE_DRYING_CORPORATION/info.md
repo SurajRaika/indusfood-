@@ -5,7 +5,7 @@ certifications: "01"
 certifications_list: [{"id": "11867", "description": "FSSAI ", "link": "https://erp.tpci.in//frontend/exhibitor/bcfef973be82e499511d3c5596d6587a_6a5617909f6ff.pdf"}]
 city_name: "VADODARA"
 company_address: "PLOT NO. 57 & 58, BROOK FIELD, INDUSTRIAL PARK, DASHARATH"
-company_logo: "https://erp.tpci.in/images/upload/company_logo/Exhibitor-Logo-6676_6a5618a1542cb.png?rand=18749"
+company_logo: "https://erp.tpci.in/images/upload/company_logo/Exhibitor-Logo-6676_6a5618a1542cb.png?rand=39756"
 company_name: "Indian Freeze Drying Corporation"
 company_profile: "INDIAN FREEZE DRYING COPORATION"
 contact_person: "SAHIL GOTHARIA"
@@ -13,7 +13,7 @@ country: ""
 facebook_link: "https://www.facebook.com/"
 featured: ""
 hall_no: "2"
-id: "MmJlM2ZhOTBiMmU5ZTc4YTpmMGQzNjRiOTdjYWRlZTkxYTRhMTk5ZWYxY2RkMjU3YWMwNzUxMDBhOi9sQ1RlbVV0c1Iyc1NhSDBvMVNwNXc9PQ=="
+id: "ZjY1MTdlMjVlMTVmYjBlNToxYjk3ZTIzMjRlMjdhMzc5YTI4MmU3MTZlY2EwMjhkYTNmM2I4MDNhOmhSZEVzZzMzUmlMZzIwQ3YrOEhTcUE9PQ=="
 industry: "Food & Agri Products"
 instagram_link: "https://www.twitter.com/"
 linkedin_link: "https://www.linkedin.com/home?originalSubdomain=in"
@@ -23,7 +23,7 @@ pan_no: "AALF26755K"
 pin_code: "391750"
 product_list: {"Dry Fruits & Nuts": ["Dry Fruits & Nuts"]}
 product_zone: {"Dry Fruits & Nuts": ["Dry Fruits & Nuts"]}
-products: [{"productName": "Freeze Dried Mango Cubes", "description": "Freeze Dried Mango Cubes", "productImage": "https://erp.tpci.in/frontend/exhibitor/product-17840271664565239.jpg?1.00131966266904"}, {"productName": "Freeze Dried Pink Guava", "description": "Freeze Dried Pink Guava", "productImage": "https://erp.tpci.in/frontend/exhibitor/product-178402716612229561.jpg?40.603545066531325"}]
+products: [{"productName": "Freeze Dried Mango Cubes", "description": "Freeze Dried Mango Cubes", "productImage": "https://erp.tpci.in/frontend/exhibitor/product-17840271664565239.jpg?33.22833397726373"}, {"productName": "Freeze Dried Pink Guava", "description": "Freeze Dried Pink Guava", "productImage": "https://erp.tpci.in/frontend/exhibitor/product-178402716612229561.jpg?57.70446290979577"}]
 stall_no: "E-21"
 state: "Gujarat"
 twitter_link: "https://www.twitter.com/"

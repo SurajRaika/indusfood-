@@ -5,7 +5,7 @@ certifications: "01"
 certifications_list: [{"id": "11908", "description": "ISO 9001 : 2015", "link": "https://erp.tpci.in//frontend/exhibitor/8fe33461018c817f78a6ea5f0af54a48_6a5899c28734a.pdf"}]
 city_name: "FIROZABAD"
 company_address: "48 KHANJAPUR, AGRA ROAD"
-company_logo: "https://erp.tpci.in/images/upload/company_logo/Exhibitor-Logo-6601_6a589de88a1cf.jpg?rand=78461"
+company_logo: "https://erp.tpci.in/images/upload/company_logo/Exhibitor-Logo-6601_6a589de88a1cf.jpg?rand=54459"
 company_name: "G.m Overseas"
 company_profile: "G.M OVERSEAS [GLASSMEN]"
 contact_person: "ABHIMANYU PRAKASH"
@@ -13,7 +13,7 @@ country: ""
 facebook_link: "https://www.facebook.com/"
 featured: ""
 hall_no: "2"
-id: "YzI5ODQwOGJkOTNlMmQ5MzphOGQ4ODJiYzI1ZDFiNTJhNTM2MjFkNTEwNGJiMWY0NWIyY2Q2N2EwOnJ2TWN5Z2ZHdC9hSnF5YjRwOFJiVUE9PQ=="
+id: "YzRlNmRmZTQ3NTMyNGMzYTowNmIzNjIzNTFhZmQ4ODc0YWRkNGM2MTkwYTBlMjNjNjZmOGJkNWU2OlpkQWhYRlpyeWZiSzNJWjJrdEhzbHc9PQ=="
 industry: "Home & Personal Care"
 instagram_link: "https://www.twitter.com/"
 linkedin_link: "https://www.linkedin.com/home?originalSubdomain=in"
@@ -23,7 +23,7 @@ pan_no: "AAJFG1263C"
 pin_code: "283203"
 product_list: {"Beverage & Hot Drinks": ["Beverage & Hot Drinks"], "Dairy": ["Dairy"], "Dry Fruits & Nuts": ["Dry Fruits & Nuts"], "Fats & Oils": ["Fats & Oils"], "Food Ingredients": ["Food Ingredients"], "Organic, Natural & Ethical Foods": ["Organic, Natural & Ethical Foods"], "Packaging Material": ["Packaging Material"], "Rice, Pulses, Grains, Spices and Commodities": ["Rice, Pulses, Grains, Spices and Commodities"], "Wines & Spirits": ["Wines & Spirits"]}
 product_zone: {"Beverage & Hot Drinks": ["Beverage & Hot Drinks"], "Dairy": ["Dairy"], "Dry Fruits & Nuts": ["Dry Fruits & Nuts"], "Fats & Oils": ["Fats & Oils"], "Food Ingredients": ["Food Ingredients"], "Organic, Natural & Ethical Foods": ["Organic, Natural & Ethical Foods"], "Packaging Material": ["Packaging Material"], "Rice, Pulses, Grains, Spices and Commodities": ["Rice, Pulses, Grains, Spices and Commodities"], "Wines & Spirits": ["Wines & Spirits"]}
-products: [{"productName": "Food Packaging Empty Glass Bottles", "description": "We are Offering a Wide Range of Food Packaging Empty Glass Bottles to our Clients.\r\nUsage : Packaging of Oil, Syrups, Kombucha, Milk, Water, Etc", "productImage": "https://erp.tpci.in/frontend/exhibitor/product-178419216510732172.jpg?7.768015663854793"}, {"productName": "Food Packaging Empty Glass Jars", "description": "We are Offering a Wide Range of Food Packaging Empty Glass Jars to our Clients.\r\nUsage : Packaging of Honey, Jam, Pickles, Olive, Paste, Ghee, Coffee, Etc", "productImage": "https://erp.tpci.in/frontend/exhibitor/product-178419216586800679.jpg?41.187339221301805"}]
+products: [{"productName": "Food Packaging Empty Glass Bottles", "description": "We are Offering a Wide Range of Food Packaging Empty Glass Bottles to our Clients.\r\nUsage : Packaging of Oil, Syrups, Kombucha, Milk, Water, Etc", "productImage": "https://erp.tpci.in/frontend/exhibitor/product-178419216510732172.jpg?27.88987171639676"}, {"productName": "Food Packaging Empty Glass Jars", "description": "We are Offering a Wide Range of Food Packaging Empty Glass Jars to our Clients.\r\nUsage : Packaging of Honey, Jam, Pickles, Olive, Paste, Ghee, Coffee, Etc", "productImage": "https://erp.tpci.in/frontend/exhibitor/product-178419216586800679.jpg?90.98245323727136"}]
 stall_no: "D-15"
 state: "Uttar Pradesh"
 twitter_link: "https://www.twitter.com/"

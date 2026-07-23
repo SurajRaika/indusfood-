@@ -5,7 +5,7 @@ certifications: 0
 certifications_list: []
 city_name: "AHMEDABAD"
 company_address: "7-8,SAINATH IND.ESTATE,NR.BHAGVATI FOUNDRY, GIDC ODHAV-382415"
-company_logo: "https://erp.tpci.in/images/upload/company_logo/Exhibitor-Logo-6607_6a5b1c0ba3b29.png?rand=52017"
+company_logo: "https://erp.tpci.in/images/upload/company_logo/Exhibitor-Logo-6607_6a5b1c0ba3b29.png?rand=82211"
 company_name: "Delite Industries"
 company_profile: "WE ARE A RENOWNED MANUFACTURER, WHOLESALER, RETAILER AND EXPORTER OF MAGNETIC SEPARATOR, VIBRATING EQUIPMENT, MAGNETIC EQUIPMENT, INDUSTRIAL MAGNETS, ELECTRO MAGNETIC EQUIPMENT, ROLLER MAGNETIC SEPARATOR, INDUSTRIAL FEEDER, GYRO SCREEN AND MUCH MORE.  "
 contact_person: "HIMANSHU PATIL"
@@ -13,7 +13,7 @@ country: ""
 facebook_link: "http://www.facebook.com/Deliteindustries"
 featured: ""
 hall_no: "2"
-id: "ZjM0Yjg5MTJmZmJlM2NjMjo4MmY1MTY0ZTk2YTkwNDVmMmE0ZWRhMTkxNzY1MjgwMmNlNWI2YjJkOkMyZ3EyQUF6OHpPejNXSFBzMEtTMVE9PQ=="
+id: "ZWU3MzUwNDY1YTZlNTViNDozOWZiNWUzMzU2YzYzNDczNDc3MThhYTEyZmVlYTFhOGExZTE2MjRkOkUyRGpqYkI3WGU3R1NQQklVaFB2WFE9PQ=="
 industry: "Food & Agri Processing Machinery"
 instagram_link: "http://www.instagram.com/deliteindustries/"
 linkedin_link: "http://www.linkedin.com/company/deliteindustries"
@@ -23,7 +23,7 @@ pan_no: "AEHPP6058C"
 pin_code: "382415"
 product_list: {"Automation, Robotics & Smart Factories": ["Automation, Robotics & Smart Factories"], "Digital FoodTech, Traceability & AI": ["Digital FoodTech, Traceability & AI"], "Quality Control, Testing & Compliance": ["Quality Control, Testing & Compliance"]}
 product_zone: {"Automation, Robotics & Smart Factories": ["Automation, Robotics & Smart Factories"], "Digital FoodTech, Traceability & AI": ["Digital FoodTech, Traceability & AI"], "Quality Control, Testing & Compliance": ["Quality Control, Testing & Compliance"]}
-products: [{"productName": "vibro sifter ", "description": "Engineered for precision screening and dependable performance, the Delite Vibro Sifter is a high?efficiency gyratory screening machine for grading, scalping, and safety sifting of powders and granules.  by Working principle of this equipment An energy?efficient vibratory motor with adjustable eccent", "productImage": "https://erp.tpci.in/frontend/exhibitor/product-17842030436738884.jpg?25.614401070041954"}]
+products: [{"productName": "vibro sifter ", "description": "Engineered for precision screening and dependable performance, the Delite Vibro Sifter is a high?efficiency gyratory screening machine for grading, scalping, and safety sifting of powders and granules.  by Working principle of this equipment An energy?efficient vibratory motor with adjustable eccent", "productImage": "https://erp.tpci.in/frontend/exhibitor/product-17842030436738884.jpg?18.582943285427003"}]
 stall_no: "E-22"
 state: "Gujarat"
 twitter_link: "https://www.twitter.com/"

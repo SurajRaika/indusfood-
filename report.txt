@@ -1,0 +1,10 @@
+==========================================
+        SCARPER VERIFICATION REPORT
+==========================================
+Total exhibitors reported by Server API: 213
+Total local exhibitor folders found   : 100
+Folders missing 'info.md' file        : 0
+
+[FAILURE] Verification Failed!
+-> Count mismatch: Server has 213, but local has 100.
+==========================================
