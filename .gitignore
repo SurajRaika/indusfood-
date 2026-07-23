@@ -1,2 +1,1 @@
-exhibitors/
-exhibitors.csv
+# Clean .gitignore without ignoring generated directories so user gets all files

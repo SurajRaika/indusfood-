@@ -119,8 +119,9 @@ def scrape_all():
 
     # First, fetch all the briefs from exhibitor-list.php
     while True:
-        payload = {"limit": limit, "page": page}
-        print(f"Fetching list starting from page {page} with limit {limit}...")
+        # Use hybrid pagination (both offset and page) so it works regardless of server configuration
+        payload = {"limit": limit, "page": page, "offset": (page - 1) * limit}
+        print(f"Fetching list starting from page {page} (offset {(page - 1) * limit}) with limit {limit}...")
         res = make_post_request(LIST_URL, payload)
         if not res or not res.get("success"):
             print("Failed to get response or success was false.", file=sys.stderr)
